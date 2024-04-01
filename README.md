@@ -1,6 +1,6 @@
 # Creación de aplicación web en contenedores con Docker
 
-Bienvenidos a la guía de EntraID, este resumen practico esta hecho gracias a la documentación oficial de Microsoft https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/  Realizada para practicar para la renovación de la certificación **AZ-104** a **Marzo de 2024**.
+Bienvenidos a la guía de EntraID, este resumen practico esta hecho gracias a la documentación oficial de Microsoft https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/  Realizada para practicar para la renovación de la certificación **AZ-104** a **Abril de 2024**.
 
 
 
